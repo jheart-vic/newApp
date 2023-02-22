@@ -76,15 +76,6 @@ Rails.application.configure do
   #   authentication:    'plain',
   #   enable_starttls_auto: true
   # }
-# config.action_mailer.smtp_settings = {
-#   :address   => 'send.smtp.mailtrap.io',
-#   :port      => 587,
-#   :domain    => 'adebowalevictorjheart@gmail.com',
-#   :user_name => 'api',
-#   :password  => '19be7fa656bc1b7a97343bed37b0dbec',
-#   :authentication => 'plain',
-#   :enable_starttls_auto => true
-# }
 
   #replace with your own url
   # config.action_mailer.default_url_options = { host: 'localhost', protocol: 'http' }
